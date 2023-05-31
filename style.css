@@ -1,29 +1,9 @@
-.flex-container {
-    display: flex;
+.navigation{
     background-color: #DCDCDC;
-    width: 1855px;
-    height: 155px;
+    width: 100%;
+    padding: 0 30px;
+}
 
-}
-#bl-1 {
-    margin-left: 200px;
-    margin-top: 30px;
-}
-#bl-2 {
-    margin-top: 50px;
-    font-size: larger;
-    margin-left: 100px;
-
-}
-#bl-3 {
-    margin-top: 50px;
-    font-size: larger;
-    margin-left: 25px;
-}
-#bl-4 {
-    margin-top: 50px;
-    margin-left: 650px;
-}
 .button_daruse-1 {
     display: inline-block !important;
     text-decoration: none !important;
